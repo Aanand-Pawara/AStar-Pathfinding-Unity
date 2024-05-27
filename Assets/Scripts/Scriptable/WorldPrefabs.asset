@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfdc748b7d4e25545b4610676f14490b, type: 3}
+  m_Name: WorldPrefabs
+  m_EditorClassIdentifier: 
+  cubeGrass: {fileID: 1790984171670387865, guid: 2289daba12227534eb7d12a8b8c0281c, type: 3}
+  cubeDirt: {fileID: 1790984171670387865, guid: f0461c5a06b623347b9774d2f7388c79, type: 3}
+  cubeStone: {fileID: 1790984171670387865, guid: 04c41350ab883ae448a3d8d1c882bd52, type: 3}
+  cubeWater: {fileID: 1790984171670387865, guid: 9131e34b97a04db42bf6e9ae9b062566, type: 3}
+  cubeSand: {fileID: 1790984171670387865, guid: d5f9de6feee6f0f4d866538b54508f6e, type: 3}
