@@ -45,7 +45,7 @@ This project showcases a procedural terrain generation system using Perlin noise
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/MelloMNDRiN/BlackMARCH.git
+   git clone https://github.com/Aanand-Pawara/AStar-Pathfinding-Unity
    ```
 
 2. **Open in Unity:**
